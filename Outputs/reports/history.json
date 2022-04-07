@@ -1,0 +1,1 @@
+[{"success": 2, "all": 39, "fail": 37, "skip": 0, "error": 0, "runtime": "12.37 S", "begin_time": "2022-02-22 17:07:17", "pass_rate": "5.13"}, {"success": 38, "all": 39, "fail": 1, "skip": 0, "error": 0, "runtime": "30.77 S", "begin_time": "2022-02-25 11:48:27", "pass_rate": "97.44"}]
